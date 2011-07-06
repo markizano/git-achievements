@@ -2,6 +2,7 @@
 <title>markizano's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Gipsy (Level 1)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Carpenter (Level 3)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
